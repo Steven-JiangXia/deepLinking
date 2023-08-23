@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Deep Link</title>
+</head>
+<body>
+    <a href="jiangxia://heytalk">Click here to test deep link</a>
+</body>
+</html>
